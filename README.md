@@ -1,2 +1,2 @@
 # CPE
-Matéria  -  Computação para Engenharia 
+Computação para Engenharia 
