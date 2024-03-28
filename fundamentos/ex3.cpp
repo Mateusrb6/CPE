@@ -11,7 +11,7 @@ int main()
     diametro = raio * 2;
     area = pi * raio * raio;
 
-    cout << "o diametro e " << diametro << " e a area e " << area;
+    cout << "o diametro é " << diametro << " e a area é " << area;
 
     return 0;
 }
