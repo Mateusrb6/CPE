@@ -8,9 +8,9 @@ int z = (3 * 9 * (3 + (9 * 3 / (3))));
 int main()
 {
 
-    cout << "x = " << x << "\n";
-    cout << "y = " << y << "\n";
-    cout << "z = " << z << "\n";
+    cout << "x = " << x << endl;
+    cout << "y = " << y << endl;
+    cout << "z = " << z << endl;
 
     return 0;
 }
