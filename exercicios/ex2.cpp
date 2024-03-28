@@ -12,7 +12,7 @@ int main()
     diferenca = num1 - num2;
     quociente = num1 / num2;
 
-    cout << "a soma é igual a" << soma << endl; 
+    cout << "a soma é igual a " << soma << endl; 
     cout << "a diferenca é igual a " << diferenca << endl;
     cout << "o quociente é igual a " << quociente << endl;
 
