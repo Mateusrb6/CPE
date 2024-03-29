@@ -26,11 +26,23 @@ int main()
 
     // criptografia //
 
+   for (int i = 0; i < 6; i++)
+   {
+        if (palavra[i] == 'a')
+        {
+            palavra[i] = 'i';
+        }
+        else if (palavra[i] == 'e')
+        {
+            palavra[i] = 'o';
+        }
+        else if (palavra[i] == 'i')
+        {
+            palavra[i] = 'u';
+        } 
+   }
    
+   cout << "a palavra criptografada é: " << palavra << endl;
 
-
-
-
-  
     return 0;
 }
